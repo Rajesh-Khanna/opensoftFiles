@@ -1,0 +1,67 @@
+<div><h3>M/S. Stp Limited v Collector Of Central Excise, Patna & Ors
+</h3><p>Supreme Court of India
+</p><b>2 December 1997
+</b><p>The Judgment was delivered by :<i>The Judgment was delivered by: Sen, J.
+</i></p><p>
+</p><p>Civil Appeal No. 3234 of 1991
+</p><p>1. The appellant is a Company engaged in manufacture of coal tar products. An exemption notification was issued by the Central Government exempting tar falling under Tariff Item 11 of Central Excise Tariff from the whole of excise duty leviable thereon. Tariff Item No.11 is:
+</p><p>Item Description of Goods Rate of duty
+</p><p>11. COAL (EXCLUDING LIGNITE)
+</p><p>AND COKE ALL SORTS,
+</p><p>INCLUDING CALCINED
+</p><p>PETROLEUM COKE: ASPHALT,
+</p><p>BITUMEN AND TAR-
+</p><p>(1) Coal and coke not else- Ten rupees per metric
+</p><p>where specified tonne.
+</p><p>(2) Petroleum coke, other Twenty per cent ad
+</p><p>than calcined petroleum valorem plus two
+</p><p>coke. rupees per metric
+</p><p>tonne.
+</p><p>(3) Calclined petroleum Twenty per cent ad
+</p><p>coke valorem.
+</p><p>(4) Asphalt and bitumen Two hundred rupees
+</p><p>(including cutback per metric tonne.
+</p><p>bitumen and asphalt)
+</p><p>natural or produced
+</p><p>from petroleum or
+</p><p>shale.
+</p><p>(5) Tar distilled from coal One hundred rupees per
+</p><p>or lignite and other metric tonne.
+</p><p>mineral tars, including
+</p><p>partially distilled tars
+</p><p>and blends of pitch with
+</p><p>creosote oils or with other
+</p><p>tar distillation products.
+</p><p>The Exemption notification is as follows:
+</p><p>"Tar is exempt from duty TAR
+</p><p>121/62-CE, dt. 13.6.62
+</p><p>2. In exercise of the powers conferred by Rule 8 (1) of the Central Excise Rules. 1944, falling under Item 11 with effect from the 24th April, 1962 from the whole of the excise duty leviable thereon"
+</p><p>3. The appellant's case before the excise authority was that its products were fully exempt from excise duty by virtue of the above notification. The case of the Department on the other hand, is that the goods manufactured by the appellant did not come within the ambit of Tariff Item 11. Therefore, there is no question of granting any exemption from excise duty to these production. The dispute ultimately went to the Tribunal. The Tribunal, after hearing the parties and taking into consideration. the report of the Chemical Examiner, came to the conclusion that some of the goods manufactured by the appellant came within the ambit of cl. (5) of Tariff Item 11 and, therefore, were exempt from excise duty. The Tribunal, however, held that no relief could be given to the assessee in respect of some of the products in view of an earlier decision in the case of Indian Aluminium Co. Ltd. vs. Collector of Customs Cochin 1988 (38) ELT 68 (Tribunal). The relevant part of the order of the Tribunal is as under:
+</p><p>"We do not see any reason to deviate from the above- referred to decision. Respectfully fowling the same. We uphold the classification of items at serial nos. 3 to 8 under item 68, OET. Notification No.121/62 applied only to tar falling under Item No.11(5). Therefore, it does not apply to the subject pitches."
+</p><p>4. The goods mentioned in Serial Nos. 3 to 8 of the Chemical Examiner's Report were as under:
+</p><p>Sl. No Description Gift of the results
+</p><p>in the of the products results of chemical
+</p><p>classi- test
+</p><p>fication
+</p><p>list.
+</p><p>1. xxx xxx
+</p><p>2. xxx xxx
+</p><p>3. Soft Pitch The sample is coal tar
+</p><p>pitch
+</p><p>4. Soft Medium Pitch -do-
+</p><p>5. Hard Pitch -do-
+</p><p>6. Hard Medium Pitch -do-
+</p><p>7. Special Hard Pitch The sample is coal tar
+</p><p>8. Electrode Pitch The sample has the
+</p><p>characteristics of coal
+</p><p>tar pitch
+</p><p>5. The Tribunal did not give any separate reasons of its own for coming to its decision but merely followed the judgment of another Bench of the Tribunal in the case of Indian Aluminium Co. Ltd. v. Collector of Customs, Cochin, 1988 (38) ELT 68 (Tribunal). In that case, it was held that coal tar and coal tar pitch were two separate commodities. Technical literature showed that pitch was obtained from distillation of coal tar. No evidence had been produced to show that from the pitch, which was the residuary product of distillation of tar, any further distillation product could be obtained. The coal tar comprised of many constituents and if any part of these constituents were removed by distillation. then some constituents would remain in it This tar could be considered as partially distilled tar and remaining identificable constituents could be distilled out of it. So far as the pitch was concerned. No further identificable products were obtained from the same on distillation for it to be considered as partially distilled tar.It was further held that the term "partially distilled tar" as used in Item 11(2) of the central Excise Tariff had not been defined in any technical book. Therefore, it had to be understood in the context of distillation process and coal tar as stated above. There was no reason for considering coal tar pitch as partially distilled tar. it was an item distinct from coat tar or partially distilled tar.
+</p><p>6. On behalf of the respondents, strong reliance was placed on this judgment and it was contended that what the appellants had manufactured was various types of pitch which did not come within the ambit of Tariff Item 11(5) and, therefore, did not qualify for exemption.
+</p><p>7. On behalf of the appellant our attention was drawn to adjustment of this Court in the case of Steel Authority of India limited v. Collector of Excise Bolpur. West Bengal <a href="/case/<a href="/case/1997 Indlaw SC 24">1997 Indlaw SC 24</a>1"><a href="/case/1997 Indlaw SC 24">1997 Indlaw SC 24</a>1</a>4 (S.C.) where it was held that the exemption notification exempted 'tar' falling under Item 11 of the First Schedule to the central Excises and Salt Act. 1944. The meaning of 'tar' had to be gathered from the Tariff description given in cl. 5 of Tariff Item No.11. An inclusive definition had been given to 'Tar' which included
+</p><p>"partially distilled tars and blends of pitch with craosote oils or with other tar distillation products"
+</p><p>8. On behalf of the respondent, a distinction was sought to be drawn between tar and products made out of pitch. The contention is that what the appellants had manufactured were not tar distilled from coal. These products also could not be regarded as blends of pitch with creosote oil. Therefore, these products could not given the benefit of the exemption notification.We are unable to uphold this contention. The Tariff heading speaks of "Asphalt, Bitumen and Tar". " Tar" has been given an expanded definition in cl. (5). Tar distilled from coal or lignite or any other mineral will come within the ambit of this definition. The inclusive clause, thereafter, extends the definition to partially distilled tars and blends of pitch with creosote oils or with other tars and blends of pitch with creosote oils or with other tar distillation products, It is not in dispute that pitch is obtained by distillation of tar. It has been argued on behalf of the respondents that the residue of distillation of tar is pitch. We fall to see this fine distinction. Pitch is brought about by distillation of tar. If the contention of the respondent is to be upheld, it will have to be held that even though pitch is brought forth by distillation of tar. It is not "tar distillation product".
+</p><p>9. We are unable to uphold this distinction for another reason. According to "Webster Comprehensive Diction International Edition" coal tar"means" the black viscid pitch distilled from bituminous coal. and yielding a large variety of organic compounds used in the making of dve stuffs explosives flavoring extracts, drugs, plastics etc." Therefore, in a sense coal tar itself is a variety of pitch By distillation of coal tar, a type of pitch is obtained. That must come within the phrase 'tar distillation product' Moreover, if there is any doubt in the construction of any provision of taxing statute, that doubt must be resolved in favour of the assessee.
+</p><p>10. In the premises. We are of the view that the appeal must succeed.
+</p><p>11. The judgment under appeal is set aside on the point in dispute. The appeal is allowed, there will be no order as to costs.
+</p><p>Appeal allowed.
+</p></div>
